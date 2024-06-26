@@ -1,10 +1,10 @@
 # Abikasse
 
-Hier finden Sie Informationen zu den Geldmitteln die dem Finanzkomitee zur Verfügung stehen. Beachte, dass sich noch im Umlauf befindende Gelder nicht engetragen sind.
+Hier finden Sie Informationen zu den Geldmitteln die dem Finanzkomitee zur Verfügung stehen. Beachten Sie, dass sich noch im Umlauf befindende Gelder nicht eingetragen sind.
 
 > ### :bulb:Tip
 > 
-> Auch hier gilt: Bei **Fragen, Vorschlägen oder Problemen** können Sie sich unter dem Reiter "Issues" Abhilfe schaffen. Konkrete Änderungen werden über "Pull requests" eingehen.
+> Auch hier gilt: Bei **Fragen, Vorschlägen oder Problemen** können Sie sich unter dem Reiter *Issues* Abhilfe schaffen. Konkrete Änderungen werden über *Pull requests* eingehen.
 >
 > *Ergänzungen sind willkommen!*
 
