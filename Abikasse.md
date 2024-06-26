@@ -10,7 +10,7 @@ Hier finden Sie Informationen zu den Geldmitteln die dem Finanzkomitee zur Verf�
 
 ## Summe
 
-81,27€
+<ins>81,27€</ins>
 
 ## Tabelle der Einkommen und Ausgaben
 
